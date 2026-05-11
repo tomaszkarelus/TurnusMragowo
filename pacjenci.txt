@@ -1,0 +1,60 @@
+poniedziałek
+1;Marcin
+2;Miki
+3;Antek
+4;Amelka
+5;Laura
+6;Kacper
+7;Lenka
+8;Michał
+9;Olek
+10;Filip Ł
+11;Filip N
+wtorek
+1;Amelka
+2;Antek
+3;Filip Ł
+4;Filip N
+5;Kacper
+6;Miki
+7;Laura
+8;Marcin
+9;Michał
+10;Lenka
+11;Olek
+środa
+1;Laura
+2;Lenka
+3;Amelka
+4;Olek
+5;Kacper
+6;Michał
+7;Miki
+8;Filip Ł
+9;Antek
+10;Filip N
+11;Marcin
+czwartek
+1;Kacper
+2;Laura
+3;Marcin
+4;Antek
+5;Lenka
+6;Olek
+7;Amelka
+8;Filip N
+9;Filip Ł
+10;Michał
+11;Miki
+piątek
+1;Miki
+2;Marcin
+3;Laura
+4;Filip Ł
+5;Antek
+6;Lenka
+7;Olek
+8;Kacper
+9;Filip N
+10;Amelka
+11;Michał
