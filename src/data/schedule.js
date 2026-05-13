@@ -127,6 +127,23 @@ const schedule = {
       { specialist: "Ania", time: "14:00" },
     ],
   },
+  Ignaś: {
+    Poniedziałek: [
+      { specialist: "Karolina", time: "15:30" },
+    ],
+    Wtorek: [
+      { specialist: "Karolina", time: "15:30" },
+    ],
+    Środa: [
+      { specialist: "Karolina", time: "15:30" },
+    ],
+    Czwartek: [
+      { specialist: "Karolina", time: "15:30" },
+    ],
+    Piątek: [
+      { specialist: "Karolina", time: "15:30" },
+    ],
+  },
   Kacper: {
     Poniedziałek: [
       { specialist: "Karolina", time: "10:00" },
@@ -285,6 +302,23 @@ const schedule = {
       { specialist: "Edyta", time: "11:30" },
       { specialist: "Karolina", time: "14:00" },
       { specialist: "Ania", time: "15:00" },
+    ],
+  },
+  Mikołaj: {
+    Poniedziałek: [
+      { specialist: "Ania", time: "15:30" },
+    ],
+    Wtorek: [
+      { specialist: "Ania", time: "15:30" },
+    ],
+    Środa: [
+      { specialist: "Ania", time: "15:30" },
+    ],
+    Czwartek: [
+      { specialist: "Ania", time: "15:30" },
+    ],
+    Piątek: [
+      { specialist: "Ania", time: "15:30" },
     ],
   },
   Miki: {

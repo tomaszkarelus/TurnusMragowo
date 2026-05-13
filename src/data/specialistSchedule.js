@@ -44,6 +44,10 @@ const specialistSchedule = {
       {
         "patient": "Filip N",
         "time": "15:00"
+      },
+      {
+        "patient": "Mikołaj",
+        "time": "15:30"
       }
     ],
     "Wtorek": [
@@ -90,6 +94,10 @@ const specialistSchedule = {
       {
         "patient": "Olek",
         "time": "15:00"
+      },
+      {
+        "patient": "Mikołaj",
+        "time": "15:30"
       }
     ],
     "Środa": [
@@ -136,6 +144,10 @@ const specialistSchedule = {
       {
         "patient": "Marcin",
         "time": "15:00"
+      },
+      {
+        "patient": "Mikołaj",
+        "time": "15:30"
       }
     ],
     "Czwartek": [
@@ -182,6 +194,10 @@ const specialistSchedule = {
       {
         "patient": "Miki",
         "time": "15:00"
+      },
+      {
+        "patient": "Mikołaj",
+        "time": "15:30"
       }
     ],
     "Piątek": [
@@ -228,6 +244,10 @@ const specialistSchedule = {
       {
         "patient": "Michał",
         "time": "15:00"
+      },
+      {
+        "patient": "Mikołaj",
+        "time": "15:30"
       }
     ]
   },
@@ -508,6 +528,10 @@ const specialistSchedule = {
       {
         "patient": "Miki",
         "time": "15:00"
+      },
+      {
+        "patient": "Ignaś",
+        "time": "15:30"
       }
     ],
     "Wtorek": [
@@ -554,6 +578,10 @@ const specialistSchedule = {
       {
         "patient": "Antek",
         "time": "15:00"
+      },
+      {
+        "patient": "Ignaś",
+        "time": "15:30"
       }
     ],
     "Środa": [
@@ -600,6 +628,10 @@ const specialistSchedule = {
       {
         "patient": "Lenka",
         "time": "15:00"
+      },
+      {
+        "patient": "Ignaś",
+        "time": "15:30"
       }
     ],
     "Czwartek": [
@@ -646,6 +678,10 @@ const specialistSchedule = {
       {
         "patient": "Laura",
         "time": "15:00"
+      },
+      {
+        "patient": "Ignaś",
+        "time": "15:30"
       }
     ],
     "Piątek": [
@@ -692,6 +728,10 @@ const specialistSchedule = {
       {
         "patient": "Marcin",
         "time": "15:00"
+      },
+      {
+        "patient": "Ignaś",
+        "time": "15:30"
       }
     ]
   },
